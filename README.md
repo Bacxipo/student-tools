@@ -5,6 +5,7 @@ A small collection of simple tools for students.
 ## Features
 
 - Calculator
+- Temperature converter
 
 ## Run tests
 
