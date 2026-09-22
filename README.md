@@ -6,7 +6,6 @@ A small collection of simple tools for students.
 
 - Calculator
 - Temperature converter
-- Input validation
 
 ## Run tests
 
